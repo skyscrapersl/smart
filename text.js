@@ -1,1 +1,1 @@
-No more probes in current queue
+var txt ="No more probes in current queue"
